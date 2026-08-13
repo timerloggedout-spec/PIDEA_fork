@@ -15,15 +15,15 @@
   "dependencies": {
     "chart.js": "^4.4.0",
     "dotenv": "^17.2.0",
-    "mermaid": "^11.8.1",
+    "mermaid": "^11.16.1",
     "react": "^18.3.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.0",
-    "vis-data": "^8.0.1",
-    "vis-network": "^10.0.1"
+    "vis-data": "^8.0.5",
+    "vis-network": "^10.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.0",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
     "@testing-library/jest-dom": "^6.6.3",
